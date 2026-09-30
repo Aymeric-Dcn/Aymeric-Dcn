@@ -1,16 +1,20 @@
-## Hi there 👋
+# Aymeric Duchene
 
-<!--
-**Aymeric-Dcn/Aymeric-Dcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student in Electronics and Embedded Systems at Polytech Montpellier (France), graduating in 2027.
 
-Here are some ideas to get you started:
+**Currently looking for a 6-month internship in Japan starting March 2027**, in embedded systems, electronics or robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+- **Osaka Institute of Technology** (Japan), robotics intern, April–August 2026: indoor delivery robot, ESP32 smart locker with custom PCB, web mission platform connected to ROS 2.
+
+## Skills
+
+- **Embedded:** C/C++, STM32 (register level, FreeRTOS), ESP32, SPI, UART
+- **Electronics:** PCB design, sensor and actuator interfaces
+- **Robotics and software:** ROS 2, Linux, Python, Node.js
+- **Languages:** French (native), English (C1), Japanese (JLPT N4, preparing N3)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/aymeric-duchene) · aymeric.duchene@outlook.fr
